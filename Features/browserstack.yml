@@ -1,0 +1,14 @@
+userName: madanpeddagouni_lhP7OQ
+accessKey: Yp9ZhRWxBgV8sxxjz8YG
+framework: behave
+app: bs://d1e736fbe9b9389f3387f53eadabee514bac0cf1
+platforms:
+  - platformName: ios
+    deviceName: iPhone 14
+    platformVersion: 16
+browserstackLocal: true
+buildName: iOS 5.3.4
+projectName: Today iOS
+buildIdentifier: ${BUILD_NUMBER}
+debug: true
+networkLogs: true
